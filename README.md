@@ -12,19 +12,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar  
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://andoridesu.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://andoridesu.com#gh-dark-mode-only)
-&nbsp;&nbsp; 
-[![website](./img/twitter-light.svg)](https://twitter.com/aandri05_#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/aandri05_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aandri05_#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aandri05_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/aandri05_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/aandri05_#gh-dark-mode-only)
+### Connect with me: 
 
 ### Languages and Tools:
 
